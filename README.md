@@ -32,7 +32,7 @@
 ---
 
 <h3 align="center">My Trophies</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasirumadhuwantha" alt="yasirumadhuwantha" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasirumadhuwantha&theme=darkhub" alt="yasirumadhuwantha" /></a> </p>
 
 ---
 
