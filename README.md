@@ -57,29 +57,48 @@
 ---
 
 <h3 align="center">Connect ( Social / Professional )</h3>
+
 <p align="center">
+<!-- YouTube -->
 <a href="https://www.youtube.com/@productiveworkspace" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="PRODUCTIVE WORKSPACE" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/28880215/yasirumadhuwantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" /></a>
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/de0c93e12cdb71f4941addd6b8303bafc515804a/YASIRU%20MADHUWANTHA/Social%20Media/LinkedIn.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" /></a>
+<!-- Stack Overflow -->
+<a href="https://stackoverflow.com/users/28880215/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/StackOverflow-Dark.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" /></a>
+<!-- Facebook -->
 <a href="https://www.facebook.com/wgyasiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" /></a>
+<!-- Instagram -->
 <a href="https://www.instagram.com/yasiru.madhuwantha" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="YASIRU MADHUWANTHA" height="50" width="50" /></a>
 </p>
 
 ---
 
 <h3 align="center">Languages and Tools</h3>
+
 <p align="center">
+<!-- HTML 5 -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="50" height="50"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="50" height="50"/> </a>
+<!-- CSS3 -->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="50" height="50"/> </a>
+<!-- JavaScript ( JS ) -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>
+<!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a>
+<!-- Java -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="50" height="50"/> </a>
+<!-- C -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50"/> </a>
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50"/> </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50"/> </a>
+<!-- C++ -->
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50"/> </a>
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50"/> </a>
+<!-- PHP -->
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="PHP" width="50" height="50"/> </a>
+<!-- Adobe Illustrator -->
 <a href="https://www.illustrator.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Illustrator.svg" alt="Illustrator" width="50" height="50"/> </a>
+<!-- Adobe Photoshop -->
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="Photoshop" width="50" height="50"/> </a>
+<!-- Figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma" width="50" height="50"/> </a>
 </p>
 
