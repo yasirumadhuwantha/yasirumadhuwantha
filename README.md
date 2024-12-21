@@ -69,6 +69,14 @@
 <a href="https://www.facebook.com/wgyasiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Facebook"/></a>
 <!-- Instagram -->
 <a href="https://www.instagram.com/yasiru.madhuwantha" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Instagram"/></a>
+<!-- Dribbble -->
+<a href="https://dribbble.com/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Dribbble.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Dribbble"/></a>
+<!-- Behance -->
+<a href="https://www.behance.net/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Behance.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Behance"/></a>
+<!-- Tumblr -->
+<a href="https://www.tumblr.com/wgyasiru" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Tumblr.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Tumblr"/></a>
+<!-- Twitter -->
+<a href="https://www.x.com/yasziru" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Twitter.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Twitter"/></a>
 </p>
 
 ---
