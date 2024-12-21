@@ -77,6 +77,14 @@
 <a href="https://www.tumblr.com/wgyasiru" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Tumblr.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Tumblr"/></a>
 <!-- Twitter -->
 <a href="https://www.x.com/yasziru" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Twitter.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Twitter"/></a>
+<!-- Deviantart -->
+<a href="https://www.deviantart.com/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/e508e03f1066ca0af0649e42fe36927392ed8f42/YASIRU%20MADHUWANTHA/Social%20Media/Deviantart.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Deviantart"/></a>
+<!-- Pinterest -->
+<a href="https://www.pinterest.com/yasiru_madhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/e508e03f1066ca0af0649e42fe36927392ed8f42/YASIRU%20MADHUWANTHA/Social%20Media/Pinterest.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Pinterest"/></a>
+<!-- Reddit -->
+<a href="https://www.reddit.com/user/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/e508e03f1066ca0af0649e42fe36927392ed8f42/YASIRU%20MADHUWANTHA/Social%20Media/Reddit.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Reddit"/></a>
+<!-- Quora -->
+<a href="https://www.quora.com/profile/YASIRU-MADHUWANTHA-3" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/4e02540fecee2ff098005db344b0d02374a3ec42/YASIRU%20MADHUWANTHA/Social%20Media/Quora.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Quora"/></a>
 </p>
 
 ---
