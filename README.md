@@ -56,7 +56,7 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect ( Social / Professional )</h3>
 <p align="center">
 <a href="https://www.youtube.com/@productiveworkspace" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="PRODUCTIVE WORKSPACE" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" /></a>
