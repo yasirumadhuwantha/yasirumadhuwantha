@@ -79,6 +79,8 @@
 <a href="https://www.x.com/yasziru" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Twitter.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Twitter"/></a>
 <!-- Deviantart -->
 <a href="https://www.deviantart.com/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/e508e03f1066ca0af0649e42fe36927392ed8f42/YASIRU%20MADHUWANTHA/Social%20Media/Deviantart.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Deviantart"/></a>
+</br>
+</br>
 <!-- Pinterest -->
 <a href="https://www.pinterest.com/yasiru_madhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/e508e03f1066ca0af0649e42fe36927392ed8f42/YASIRU%20MADHUWANTHA/Social%20Media/Pinterest.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Pinterest"/></a>
 <!-- Reddit -->
@@ -96,9 +98,9 @@
 <!-- Patreon -->
 <a href="https://patreon.com/YASIRUMADHUWANTHA" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Patreon.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Patreon"/></a>
 <!-- TikTok -->
-<a href="https://www.tiktok.com/@yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/TikTok.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="TikTok"/></a>
+<a href="https://www.tiktok.com/@yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/7fd709cb21cfd56b9faefb8fadd517fcf30154fa/YASIRU%20MADHUWANTHA/Social%20Media/TikTok%20x1.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="TikTok"/></a>
 <!-- Twitch -->
-<a href="https://www.twitch.tv/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Twitch.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Twitch"/></a>
+<a href="https://www.twitch.tv/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/7fd709cb21cfd56b9faefb8fadd517fcf30154fa/YASIRU%20MADHUWANTHA/Social%20Media/Twitch%20x1.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Twitch"/></a>
 </p>
 
 ---
@@ -124,7 +126,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50" title="MySQL"/> </a>
 <!-- PHP -->
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="PHP" width="50" height="50" title="PHP"/> </a>
-<br/>
+</br>
+</br>
 <!-- Adobe Illustrator -->
 <a href="https://www.illustrator.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Illustrator.svg" alt="Illustrator" width="50" height="50" title="Adobe Illustrator"/> </a>
 <!-- Adobe Photoshop -->
