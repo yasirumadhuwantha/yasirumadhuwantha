@@ -110,6 +110,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50" title="MySQL"/> </a>
 <!-- PHP -->
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="PHP" width="50" height="50" title="PHP"/> </a>
+<br/>
 <!-- Adobe Illustrator -->
 <a href="https://www.illustrator.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Illustrator.svg" alt="Illustrator" width="50" height="50" title="Adobe Illustrator"/> </a>
 <!-- Adobe Photoshop -->
