@@ -31,6 +31,11 @@
 
 ---
 
+<h3 align="center">My Trophies</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasirumadhuwantha" alt="yasirumadhuwantha" /></a> </p>
+
+---
+
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
