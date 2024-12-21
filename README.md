@@ -89,16 +89,12 @@
 <a href="https://www.quora.com/profile/YASIRU-MADHUWANTHA-3" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/4e02540fecee2ff098005db344b0d02374a3ec42/YASIRU%20MADHUWANTHA/Social%20Media/Quora.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Quora"/></a>
 <!-- Vimeo -->
 <a href="https://www.vimeo.com/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Vimeo.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Vimeo"/></a>
-<!-- Flickr -->
-<a href="https://www.flickr.com/people/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Flickr.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Flickr"/></a>
 <!-- Gitlab -->
 <a href="https://gitlab.com/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Gitlab.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Gitlab"/></a>
 <!-- Mastodon -->
 <a href="https://expressional.social/@yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Mastodon.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Mastodon"/></a>
 <!-- Patreon -->
 <a href="https://patreon.com/YASIRUMADHUWANTHA" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Patreon.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Patreon"/></a>
-<!-- TikTok -->
-<a href="https://www.tiktok.com/@yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/7fd709cb21cfd56b9faefb8fadd517fcf30154fa/YASIRU%20MADHUWANTHA/Social%20Media/TikTok%20x1.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="TikTok"/></a>
 <!-- Twitch -->
 <a href="https://www.twitch.tv/yasirumadhuwantha" target="blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/7fd709cb21cfd56b9faefb8fadd517fcf30154fa/YASIRU%20MADHUWANTHA/Social%20Media/Twitch%20x1.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Twitch"/></a>
 </p>
