@@ -152,6 +152,12 @@
 &nbsp; &nbsp;
 <!-- PHP -->
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="PHP" width="50" height="50" title="PHP"/> </a>
+<!-- Markdown -->
+<a href="https://www.markdownguide.org" target="_blank" rel="noreferrer"> <img src="https://github.com/yasirumadhuwantha/icons/blob/ed118509497be2281085d36e772b3bcc0f60bb2e/YASIRU%20MADHUWANTHA/Programming%20Languages/Markdown.svg" alt="PHP" width="50" height="50" title="Markdown"/> </a>
+<!-- LaTeX -->
+<a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> <img src="https://github.com/yasirumadhuwantha/icons/blob/ed118509497be2281085d36e772b3bcc0f60bb2e/YASIRU%20MADHUWANTHA/Programming%20Languages/LaTeX.svg" alt="PHP" width="50" height="50" title="LaTeX"/> </a>
+<!-- Arduino -->
+<a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://github.com/yasirumadhuwantha/icons/blob/ed118509497be2281085d36e772b3bcc0f60bb2e/YASIRU%20MADHUWANTHA/Programming%20Languages/Arduino.svg" alt="PHP" width="50" height="50" title="Arduino"/> </a>
 </br>
 </br>
 <!-- Adobe Illustrator -->
