@@ -127,59 +127,59 @@
 
 <p align="center">
 <!-- HTML 5 -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/yasirumadhuwantha/icons/blob/5c197956fd0bc1bc7a8d90b4d2b6da0f4e805cba/YASIRU%20MADHUWANTHA/Programming%20Languages/HTML%205.svg" alt="HTML5" width="50" height="50" title="HTML 5"/> </a>
+<a href="https://www.w3.org/html" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/5c197956fd0bc1bc7a8d90b4d2b6da0f4e805cba/YASIRU%20MADHUWANTHA/Programming%20Languages/HTML%205.svg" alt="HTML 5" height="50" width="50" title="HTML 5"/></a>
 &nbsp; &nbsp;
 <!-- CSS 3 -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="50" height="50" title="CSS 3"/> </a>
+<a href="https://www.w3schools.com/css" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS 3" height="50" width="50" title="CSS 3"/></a>
 &nbsp; &nbsp;
 <!-- JavaScript ( JS ) -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50" title="JavaScript ( JS )"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript ( JS )" height="50" width="50" title="JavaScript ( JS )"/></a>
 &nbsp; &nbsp;
 <!-- Python -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50" title="Python"/> </a>
+<a href="https://www.python.org" target="_blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" height="50" width="50" title="Python"/></a>
 &nbsp; &nbsp;
 <!-- Java -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="50" height="50" title="Java"/> </a>
+<a href="https://www.java.com" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" height="50" width="50" title="Java"/></a>
 &nbsp; &nbsp;
 <!-- C -->
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50" title="C"/> </a>
+<a href="https://www.cprogramming.com" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" height="50" width="50" title="C"/></a>
 &nbsp; &nbsp;
 <!-- C++ -->
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50" title="C++"/> </a>
+<a href="https://www.w3schools.com/cpp" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="50" width="50" title="C++"/></a>
 &nbsp; &nbsp;
 <!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50" title="MySQL"/> </a>
+<a href="https://www.mysql.com" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" height="50" width="50" title="MySQL"/></a>
 &nbsp; &nbsp;
 <!-- PHP -->
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="PHP" width="50" height="50" title="PHP"/> </a>
+<a href="https://www.php.net" target="_blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="PHP" height="50" width="50" title="PHP"/></a>
 &nbsp; &nbsp;
 <!-- Markdown -->
-<a href="https://www.markdownguide.org" target="_blank" rel="noreferrer"> <img src="https://github.com/yasirumadhuwantha/icons/blob/ed118509497be2281085d36e772b3bcc0f60bb2e/YASIRU%20MADHUWANTHA/Programming%20Languages/Markdown.svg" alt="PHP" width="50" height="50" title="Markdown"/> </a>
+<a href="https://www.markdownguide.org" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/ed118509497be2281085d36e772b3bcc0f60bb2e/YASIRU%20MADHUWANTHA/Programming%20Languages/Markdown.svg" alt="Markdown" height="50" width="50" title="Markdown"/></a>
 &nbsp; &nbsp;
 <!-- LaTeX -->
-<a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> <img src="https://github.com/yasirumadhuwantha/icons/blob/ed118509497be2281085d36e772b3bcc0f60bb2e/YASIRU%20MADHUWANTHA/Programming%20Languages/LaTeX.svg" alt="PHP" width="50" height="50" title="LaTeX"/> </a>
+<a href="https://www.latex-project.org" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/ed118509497be2281085d36e772b3bcc0f60bb2e/YASIRU%20MADHUWANTHA/Programming%20Languages/LaTeX.svg" alt="LaTeX" height="50" width="50" title="LaTeX"/></a>
 &nbsp; &nbsp;
 <!-- Arduino -->
-<a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://github.com/yasirumadhuwantha/icons/blob/ed118509497be2281085d36e772b3bcc0f60bb2e/YASIRU%20MADHUWANTHA/Programming%20Languages/Arduino.svg" alt="PHP" width="50" height="50" title="Arduino"/> </a>
+<a href="https://www.arduino.cc" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/ed118509497be2281085d36e772b3bcc0f60bb2e/YASIRU%20MADHUWANTHA/Programming%20Languages/Arduino.svg" alt="Arduino" height="50" width="50" title="Arduino"/></a>
 </br>
 </br>
 <!-- Adobe Illustrator -->
-<a href="https://www.illustrator.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Illustrator.svg" alt="Illustrator" width="50" height="50" title="Adobe Illustrator"/> </a>
+<a href="https://www.illustrator.com/en" target="_blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Illustrator.svg" alt="Adobe Illustrator" height="50" width="50" title="Adobe Illustrator"/></a>
 &nbsp; &nbsp;
 <!-- Adobe Photoshop -->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="Photoshop" width="50" height="50" title="Adobe Photoshop"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="Adobe Photoshop" height="50" width="50" title="Adobe Photoshop"/></a>
 &nbsp; &nbsp;
 <!-- Figma -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma" width="50" height="50" title="Figma"/> </a>
+<a href="https://www.figma.com" target="_blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma" height="50" width="50" title="Figma"/></a>
 &nbsp; &nbsp;
 <!-- CorelDRAW -->
-<a href="https://www.coreldraw.com" target="_blank" rel="noreferrer"> <img src="https://github.com/yasirumadhuwantha/icons/blob/b48f7182620cbbccd2d4631b173dceb229d487ca/YASIRU%20MADHUWANTHA/Tools%20%26%20Softwares/CorelDRAW.svg" alt="Figma" width="50" height="50" title="CorelDRAW"/> </a>
+<a href="https://www.coreldraw.com" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/b48f7182620cbbccd2d4631b173dceb229d487ca/YASIRU%20MADHUWANTHA/Tools%20%26%20Softwares/CorelDRAW.svg" alt="CorelDRAW" height="50" width="50" title="CorelDRAW"/></a>
 &nbsp; &nbsp;
 <!-- Visual Studio -->
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/yasirumadhuwantha/icons/blob/68b87f468d087be6bf9e9f865065b9aef7873da9/YASIRU%20MADHUWANTHA/Tools%20%26%20Softwares/Visual%20Studio.svg" alt="Figma" width="50" height="50" title="Visual Studio"/> </a>
+<a href="https://code.visualstudio.com" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/68b87f468d087be6bf9e9f865065b9aef7873da9/YASIRU%20MADHUWANTHA/Tools%20%26%20Softwares/Visual%20Studio.svg" alt="Visual Studio" height="50" width="50" title="Visual Studio"/></a>
 &nbsp; &nbsp;
 <!-- PyCharm -->
-<a href="https://www.jetbrains.com/pycharm" target="_blank" rel="noreferrer"> <img src="https://github.com/yasirumadhuwantha/icons/blob/68b87f468d087be6bf9e9f865065b9aef7873da9/YASIRU%20MADHUWANTHA/Tools%20%26%20Softwares/PyCharm.svg" alt="Figma" width="50" height="50" title="PyCharm"/> </a>
+<a href="https://www.jetbrains.com/pycharm" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/68b87f468d087be6bf9e9f865065b9aef7873da9/YASIRU%20MADHUWANTHA/Tools%20%26%20Softwares/PyCharm.svg" alt="PyCharm" height="50" width="50" title="PyCharm"/></a>
 </p>
 
 ---
