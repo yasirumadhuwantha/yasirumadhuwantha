@@ -184,6 +184,17 @@
 
 ---
 
+<h3 align="center">Productivity Setup</h3>
+
+<p align="center">
+<!-- 1Password -->
+<a href="https://www.1password.com" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/485fd1272bf5be4a85b50ae5cc37f046af3bb4cf/YASIRU%20MADHUWANTHA/Productivity%20Tools/1Password.svg" alt="1Password" height="50" width="50" title="1Password"/></a>
+&nbsp; &nbsp;
+<!-- Brave Browser -->
+<a href="https://www.brave.com" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/485fd1272bf5be4a85b50ae5cc37f046af3bb4cf/YASIRU%20MADHUWANTHA/Productivity%20Tools/Brave%20Browser.svg" alt="Brave Browser" height="50" width="50" title="Brave Browser"/></a>
+
+---
+
 <h3 align="center">Support</h3>
 
 <p align="center">
