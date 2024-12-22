@@ -1,17 +1,19 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+YASIRU+MADHUWANTHA!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+YASIRU+MADHUWANTHA!;" />
 </h1>
+
 <h3 align="center">Passionate IT Student & Software Developer | Exploring the Boundless World of Technology</h3>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yasirumadhuwantha&label=Profile%20views&color=0e75b6&style=flat" alt="yasirumadhuwantha" /> </p>
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **C++**
 
-- 🧑‍🎓 I’m an Undergraduate at **Faculty of Engineering**
+<td width="50%" align="left">
+
+- 🧑‍🎓 I’m an Undergraduate at **University of Ruhuna**
 
 - 💬 Ask me about **Python**
 
@@ -19,38 +21,42 @@
   
 - ⚡ Fun fact **Call me as Yasie**
 
+- 🌱 I’m currently learning **C++**
+
 </td>
+
 <td width="50%" align="center">
+<img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">  
+</td>
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
 </tr>
 </table>
 
 ---
 
 <h3 align="center">My Trophies</h3>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasirumadhuwantha&theme=darkhub" alt="yasirumadhuwantha" /></a> </p>
 
 ---
 
 <h3 align="center">My Statistics</h3>
+
 <p align="center">
+
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=yasirumadhuwantha&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="Streak Stats" alt="Mark Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirumadhuwantha&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yasirumadhuwantha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+<td width="50%" align="center">
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=yasirumadhuwantha&theme=dark&show_icons=true&count_private=true" />
+<br></br>
+<img  title="Streak Stats" alt="Mark Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirumadhuwantha&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yasirumadhuwantha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+
 </tr>
 </table>
 
