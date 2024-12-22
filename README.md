@@ -171,6 +171,7 @@
 &nbsp; &nbsp;
 <!-- Figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma" width="50" height="50" title="Figma"/> </a>
+&nbsp; &nbsp;
 <!-- CorelDRAW -->
 <a href="https://www.coreldraw.com" target="_blank" rel="noreferrer"> <img src="https://github.com/yasirumadhuwantha/icons/blob/b48f7182620cbbccd2d4631b173dceb229d487ca/YASIRU%20MADHUWANTHA/Tools%20%26%20Softwares/CorelDRAW.svg" alt="Figma" width="50" height="50" title="CorelDRAW"/> </a>
 </p>
