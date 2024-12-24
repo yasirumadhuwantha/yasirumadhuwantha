@@ -192,6 +192,7 @@
 &nbsp; &nbsp;
 <!-- Brave Browser -->
 <a href="https://www.brave.com" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/485fd1272bf5be4a85b50ae5cc37f046af3bb4cf/YASIRU%20MADHUWANTHA/Productivity%20Tools/Brave%20Browser.svg" alt="Brave Browser" height="50" width="50" title="Brave Browser"/></a>
+&nbsp; &nbsp;
 <!-- Notion -->
 <a href="https://www.notion.so" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/6fac656fb3f08e4e6a2e171f64ff0e459eb83cf2/YASIRU%20MADHUWANTHA/Productivity%20Tools/Notion.svg" alt="Notion" height="50" width="50" title="Notion"/></a>
 &nbsp; &nbsp;
