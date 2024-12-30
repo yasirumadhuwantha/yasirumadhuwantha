@@ -180,6 +180,9 @@
 &nbsp; &nbsp;
 <!-- PyCharm -->
 <a href="https://www.jetbrains.com/pycharm" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/68b87f468d087be6bf9e9f865065b9aef7873da9/YASIRU%20MADHUWANTHA/Tools%20%26%20Softwares/PyCharm.svg" alt="PyCharm" height="50" width="50" title="PyCharm"/></a>
+&nbsp; &nbsp;
+<!-- AutoCAD -->
+<a href="https://www.autodesk.com/products/autocad/overview" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/6fac656fb3f08e4e6a2e171f64ff0e459eb83cf2/icons/AutoCAD-Light.svg" alt="AutoCAD" height="50" width="50" title="AutoCAD"/></a>
 </p>
 
 ---
