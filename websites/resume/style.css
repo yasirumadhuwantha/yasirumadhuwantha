@@ -251,18 +251,21 @@ h3 {
 }
 
 .resume .func .work,
-.resume .func .edu {
+.resume .func .edu,
+.resume .func .activity {
   float: left;
 }
 
 .resume .func .work small,
-.resume .func .edu small {
+.resume .func .edu small,
+.resume .func .activity small {
   display: block;
   opacity: 0.7;
 }
 
 .resume .func .work ul li,
-.resume .func .edu ul li {
+.resume .func .edu ul li,
+.resume .func .activity ul li {
   position: relative;
   margin-left: 15px;
   padding-left: 25px;
@@ -270,13 +273,15 @@ h3 {
 }
 
 .resume .func .work ul li:hover::before,
-.resume .func .edu ul li:hover::before {
+.resume .func .edu ul li:hover::before,
+.resume .func .activity ul li:hover::before {
   -webkit-animation: circle 1.2s infinite;
           animation: circle 1.2s infinite;
 }
 
 .resume .func .work ul li:hover span,
-.resume .func .edu ul li:hover span {
+.resume .func .edu ul li:hover span,
+.resume .func .activity ul li:hover span {
   color: #fdd835;
 }
 
@@ -298,33 +303,39 @@ h3 {
   }
 }
 .resume .func .work ul li:first-of-type::before,
-.resume .func .edu ul li:first-of-type::before {
+.resume .func .edu ul li:first-of-type::before,
+.resume .func .activity ul li:first-of-type::before {
   width: 10px;
   height: 10px;
   left: 1px;
 }
 
 .resume .func .work ul li:last-of-type,
-.resume .func .edu ul li:last-of-type {
+.resume .func .edu ul li:last-of-type,
+.resume .func .activity ul li:last-of-type {
   padding-bottom: 3px;
 }
 
 .resume .func .work ul li:last-of-type::after,
-.resume .func .edu ul li:last-of-type::after {
+.resume .func .edu ul li:last-of-type::after,
+.resume .func .activity ul li:last-of-type::after {
   border-radius: 1.5px;
 }
 
 .resume .func .work ul li::before,
 .resume .func .work ul li::after,
 .resume .func .edu ul li::before,
-.resume .func .edu ul li::after {
+.resume .func .edu ul li::after,
+.resume .func .activity ul li::before,
+.resume .func .activity ul li::after {
   content: "";
   display: block;
   position: absolute;
 }
 
 .resume .func .work ul li::before,
-.resume .func .edu ul li::before {
+.resume .func .edu ul li::before,
+.resume .func .activity ul li::before {
   width: 7px;
   height: 7px;
   border: 3px solid #ffffff;
@@ -335,7 +346,8 @@ h3 {
 }
 
 .resume .func .work ul li::after,
-.resume .func .edu ul li::after {
+.resume .func .edu ul li::after,
+.resume .func .activity ul li::after {
   width: 3px;
   height: 100%;
   background: #ffffff;
@@ -344,7 +356,8 @@ h3 {
 }
 
 .resume .func .work ul li span,
-.resume .func .edu ul li span {
+.resume .func .edu ul li span
+.resume .func .activity ul li span {
   transition-duration: 0.3s;
 }
 
@@ -361,6 +374,14 @@ h3 {
   background: #283593;
   padding: 15px;
   height: 470px;
+}
+
+.resume .func .activity {
+  width: 48.75%;
+  background: #283593;
+  padding: 15px;
+  height: 585px;
+  margin-top: 15px;
 }
 
 .resume .func .skills-prog {
