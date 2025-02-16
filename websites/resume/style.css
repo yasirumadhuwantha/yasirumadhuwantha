@@ -132,6 +132,7 @@ h3 {
   color: #283593;
 }
 
+/* Contact Me */
 .resume .base .contact div {
   line-height: 34px;
 }
@@ -172,6 +173,93 @@ h3 {
   left: 0;
   transition-duration: 0.3s;
 }
+/* Contact Me */
+
+/* Languages */
+.resume .base .language div {
+  line-height: 34px;
+}
+
+.resume .base .language div a:hover {
+  color: #fdd835;
+}
+
+.resume .base .language div a:hover span::after {
+  width: 100%;
+}
+
+.resume .base .language div:hover i {
+  color: #fdd835;
+}
+
+.resume .base .language div i {
+  color: #ffb300;
+  width: 20px;
+  height: 20px;
+  font-size: 20px;
+  text-align: center;
+  margin-right: 5px;
+  transition-duration: 0.3s;
+}
+
+.resume .base .language div span {
+  position: relative;
+}
+
+.resume .base .language div span::after {
+  content: "";
+  position: absolute;
+  background: #fdd835;
+  height: 1px;
+  width: 0;
+  bottom: 0;
+  left: 0;
+  transition-duration: 0.3s;
+}
+/* Languages */
+
+/* Expertise */
+.resume .base .expertise div {
+  line-height: 34px;
+}
+
+.resume .base .expertise div a:hover {
+  color: #fdd835;
+}
+
+.resume .base .expertise div a:hover span::after {
+  width: 100%;
+}
+
+.resume .base .expertise div:hover i {
+  color: #fdd835;
+}
+
+.resume .base .expertise div i {
+  color: #ffb300;
+  width: 20px;
+  height: 20px;
+  font-size: 20px;
+  text-align: center;
+  margin-right: 5px;
+  transition-duration: 0.3s;
+}
+
+.resume .base .expertise div span {
+  position: relative;
+}
+
+.resume .base .expertise div span::after {
+  content: "";
+  position: absolute;
+  background: #fdd835;
+  height: 1px;
+  width: 0;
+  bottom: 0;
+  left: 0;
+  transition-duration: 0.3s;
+}
+/* Expertise */
 
 .resume .base .follow .box {
   text-align: center;
