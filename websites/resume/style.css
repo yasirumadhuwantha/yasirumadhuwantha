@@ -73,6 +73,7 @@ h3 {
   color: #ffffff;
 }
 
+/* Profile */
 .resume .base .profile {
   background: #ffb300;
   padding: 30px 15px 40px 15px;
@@ -131,6 +132,7 @@ h3 {
   text-transform: none;
   color: #283593;
 }
+/* Profile */
 
 /* Contact Me */
 .resume .base .contact div {
@@ -261,6 +263,7 @@ h3 {
 }
 /* Expertise */
 
+/* Follow Me */
 .resume .base .follow .box {
   text-align: center;
   vertical-align: middle;
@@ -301,6 +304,7 @@ h3 {
 .resume .base .follow .box i.fa::before {
   display: block;
 }
+/* Follow Me */
 
 .resume .func {
   width: 100%;
@@ -472,6 +476,7 @@ h3 {
   margin-top: 15px;
 }
 
+/* Programming Skills */
 .resume .func .skills-prog {
   clear: both;
   background: #283593;
@@ -519,7 +524,9 @@ h3 {
   box-shadow: 0 0 0 #ffb300;
   border-radius: 5px;
 }
+/* Programming Skills */
 
+/* Software Skills */
 .resume .func .skills-soft {
   clear: both;
   background: #283593;
@@ -576,7 +583,9 @@ h3 {
 .resume .func .skills-soft ul li span {
   top: 40%;
 }
+/* Software Skills */
 
+/* Interests */
 .resume .func .interests {
   background: #283593;
   margin: 15px 0 0;
@@ -623,3 +632,63 @@ h3 {
 .resume .func .interests-items div span {
   display: block;
 }
+/* Interests */
+
+/* Skills Summary */
+.resume .func .skills-summary {
+  clear: both;
+  background: #283593;
+  padding: 15px;
+  margin: 15px 0 0;
+}
+
+.resume .func .skills-summary ul {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.resume .func .skills-summary ul li {
+  position: relative;
+}
+
+.resume .func .skills-summary ul li:hover svg .cbar {
+  stroke: #fdd835;
+  stroke-width: 4px;
+}
+
+.resume .func .skills-summary ul li:hover span,
+.resume .func .skills-summary ul li:hover small {
+  transform: scale(1.2);
+}
+
+.resume .func .skills-summary ul li svg {
+  width: 95%;
+  fill: transparent;
+  transform: rotate(-90deg);
+}
+
+.resume .func .skills-summary ul li svg circle {
+  stroke-width: 1px;
+  stroke: #ffffff;
+}
+
+.resume .func .skills-summary ul li svg .cbar {
+  stroke-width: 3px;
+  stroke: #ffb300;
+  stroke-linecap: round;
+}
+
+.resume .func .skills-summary ul li span,
+.resume .func .skills-summary ul li small {
+  position: absolute;
+  display: block;
+  width: 100%;
+  top: 52%;
+  transition-duration: 0.3s;
+}
+
+.resume .func .skills-summary ul li span {
+  top: 40%;
+}
+/* Skills Summary */
