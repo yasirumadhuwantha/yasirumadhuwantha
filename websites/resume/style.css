@@ -263,6 +263,49 @@ h3 {
 }
 /* Expertise */
 
+/* Industrial Skills */
+.resume .base .industrial-skills div {
+  line-height: 34px;
+}
+
+.resume .base .industrial-skills div a:hover {
+  color: #fdd835;
+}
+
+.resume .base .industrial-skills div a:hover span::after {
+  width: 100%;
+}
+
+.resume .base.industrial-skills div:hover i {
+  color: #fdd835;
+}
+
+.resume .base .industrial-skills div i {
+  color: #ffb300;
+  width: 20px;
+  height: 20px;
+  font-size: 20px;
+  text-align: center;
+  margin-right: 5px;
+  transition-duration: 0.3s;
+}
+
+.resume .base .industrial-skills div span {
+  position: relative;
+}
+
+.resume .base .industrial-skills div span::after {
+  content: "";
+  position: absolute;
+  background: #fdd835;
+  height: 1px;
+  width: 0;
+  bottom: 0;
+  left: 0;
+  transition-duration: 0.3s;
+}
+/* Industrial Skills */
+
 /* Follow Me */
 .resume .base .follow .box {
   text-align: center;
