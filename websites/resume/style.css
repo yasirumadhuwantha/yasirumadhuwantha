@@ -411,7 +411,7 @@ h3 {
 .resume .func .edu ul li:hover::before,
 .resume .func .activity ul li:hover::before {
   -webkit-animation: circle 1.2s infinite;
-          animation: circle 1.2s infinite;
+  animation: circle 1.2s infinite;
 }
 
 .resume .func .work ul li:hover span,
@@ -491,17 +491,17 @@ h3 {
 }
 
 .resume .func .work ul li span,
-.resume .func .edu ul li span
-.resume .func .activity ul li span {
+.resume .func .edu ul li span .resume .func .activity ul li span {
   transition-duration: 0.3s;
 }
 
+/* Heights of Sections */
 .resume .func .work {
   width: 48.75%;
   background: #283593;
   padding: 15px;
   margin: 0 2.5% 15px 0;
-  height: 1070px;
+  height: 1155px;
 }
 
 .resume .func .edu {
@@ -515,7 +515,7 @@ h3 {
   width: 48.75%;
   background: #283593;
   padding: 15px;
-  height: 585px;
+  height: 670px;
   margin-top: 15px;
 }
 
