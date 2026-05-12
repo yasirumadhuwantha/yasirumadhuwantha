@@ -66,8 +66,10 @@
 
 <p align="center">
 <!-- YouTube -->
+<!--
 <a href="https://www.youtube.com/@productiveworkspace" target="_blank"><img align="center" src="https://imgur.com/a/nXciOWA" alt="PRODUCTIVE WORKSPACE" height="50" width="50" title="YouTube"/></a>
 &nbsp; &nbsp;
+-->
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/de0c93e12cdb71f4941addd6b8303bafc515804a/YASIRU%20MADHUWANTHA/Social%20Media/LinkedIn.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="LinkedIn"/></a>
 &nbsp; &nbsp;
