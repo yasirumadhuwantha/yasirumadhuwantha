@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+YASIRU+MADHUWANTHA!;" />
@@ -13,24 +13,87 @@
 
 <td width="50%" align="left">
 
-- 🧑‍🎓 I'm an Undergraduate at **University of Ruhuna**
+- 🧑‍🎓 I’m an Undergraduate at **University of Ruhuna**
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **yasiru@madhuwantha.com**
-  
+  
 - ⚡ Fun fact **Call me as Yasie**
 
-- 🌱 I'm currently learning **C++**
+- 🌱 I’m currently learning **C++**
 
 </td>
 
 <td width="50%" align="center">
-<img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">  
+<img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">  
 </td>
 
 </tr>
 </table>
+
+---
+
+<h3 align="center">Connect ( Social / Professional )</h3>
+
+<p align="center">
+<!-- YouTube -->
+<!--
+<a href="https://www.youtube.com/@productiveworkspace" target="_blank"><img align="center" src="https://imgur.com/a/nXciOWA" alt="PRODUCTIVE WORKSPACE" height="50" width="50" title="YouTube"/></a>
+&nbsp; &nbsp;
+-->
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/de0c93e12cdb71f4941addd6b8303bafc515804a/YASIRU%20MADHUWANTHA/Social%20Media/LinkedIn.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="LinkedIn"/></a>
+&nbsp; &nbsp;
+<!-- Stack Overflow -->
+<a href="https://stackoverflow.com/users/28880215/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/StackOverflow-Dark.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Stack Overflow"/></a>
+&nbsp; &nbsp;
+<!-- Facebook -->
+<a href="https://www.facebook.com/wgyasiru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Facebook"/></a>
+&nbsp; &nbsp;
+<!-- Instagram -->
+<a href="https://www.instagram.com/yasiru.madhuwantha" target="_blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Instagram"/></a>
+&nbsp; &nbsp;
+<!-- Dribbble -->
+<a href="https://dribbble.com/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Dribbble.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Dribbble"/></a>
+&nbsp; &nbsp;
+<!-- Behance -->
+<a href="https://www.behance.net/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Behance.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Behance"/></a>
+&nbsp; &nbsp;
+<!-- Tumblr -->
+<a href="https://www.tumblr.com/wgyasiru" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Tumblr.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Tumblr"/></a>
+&nbsp; &nbsp;
+<!-- Twitter -->
+<a href="https://www.x.com/yasziru" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Twitter.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Twitter"/></a>
+&nbsp; &nbsp;
+<!-- Deviantart -->
+<a href="https://www.deviantart.com/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/e508e03f1066ca0af0649e42fe36927392ed8f42/YASIRU%20MADHUWANTHA/Social%20Media/Deviantart.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Deviantart"/></a>
+</br>
+</br>
+<!-- Pinterest -->
+<a href="https://www.pinterest.com/yasiru_madhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/e508e03f1066ca0af0649e42fe36927392ed8f42/YASIRU%20MADHUWANTHA/Social%20Media/Pinterest.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Pinterest"/></a>
+&nbsp; &nbsp;
+<!-- Reddit -->
+<a href="https://www.reddit.com/user/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/e508e03f1066ca0af0649e42fe36927392ed8f42/YASIRU%20MADHUWANTHA/Social%20Media/Reddit.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Reddit"/></a>
+&nbsp; &nbsp;
+<!-- Quora -->
+<a href="https://www.quora.com/profile/YASIRU-MADHUWANTHA-3" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/4e02540fecee2ff098005db344b0d02374a3ec42/YASIRU%20MADHUWANTHA/Social%20Media/Quora.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Quora"/></a>
+&nbsp; &nbsp;
+<!-- Vimeo -->
+<a href="https://www.vimeo.com/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Vimeo.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Vimeo"/></a>
+&nbsp; &nbsp;
+<!-- Gitlab -->
+<a href="https://gitlab.com/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Gitlab.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Gitlab"/></a>
+&nbsp; &nbsp;
+<!-- Mastodon -->
+<a href="https://expressional.social/@yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Mastodon.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Mastodon"/></a>
+&nbsp; &nbsp;
+<!-- Patreon -->
+<a href="https://patreon.com/YASIRUMADHUWANTHA" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Patreon.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Patreon"/></a>
+&nbsp; &nbsp;
+<!-- Twitch -->
+<a href="https://www.twitch.tv/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/7fd709cb21cfd56b9faefb8fadd517fcf30154fa/YASIRU%20MADHUWANTHA/Social%20Media/Twitch%20x1.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Twitch"/></a>
+</p>
 
 ---
 
@@ -115,92 +178,6 @@
 &nbsp; &nbsp;
 <!-- Raindrop.io -->
 <a href="https://www.raindrop.io" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/6fac656fb3f08e4e6a2e171f64ff0e459eb83cf2/YASIRU%20MADHUWANTHA/Productivity%20Tools/Raindrop.io.svg" alt="Raindrop.io" height="50" width="50" title="Raindrop.io"/></a>
-</p>
-
----
-
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-<a href="https://github.com/yasirumadhuwantha" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api?username=yasirumadhuwantha&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/yasirumadhuwantha" target="_blank">
-<img src="https://streak-stats.demolab.com?user=yasirumadhuwantha&theme=dark" alt="GitHub Streak" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/yasirumadhuwantha" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirumadhuwantha&theme=dark&layout=compact&langs_count=8" alt="Top Languages" />
-</a>
-</p>
-
----
-
-<h3 align="center">Connect ( Social / Professional )</h3>
-
-<p align="center">
-<!-- YouTube -->
-<!--
-<a href="https://www.youtube.com/@productiveworkspace" target="_blank"><img align="center" src="https://imgur.com/a/nXciOWA" alt="PRODUCTIVE WORKSPACE" height="50" width="50" title="YouTube"/></a>
-&nbsp; &nbsp;
--->
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/de0c93e12cdb71f4941addd6b8303bafc515804a/YASIRU%20MADHUWANTHA/Social%20Media/LinkedIn.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="LinkedIn"/></a>
-&nbsp; &nbsp;
-<!-- Stack Overflow -->
-<a href="https://stackoverflow.com/users/28880215/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/StackOverflow-Dark.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Stack Overflow"/></a>
-&nbsp; &nbsp;
-<!-- Facebook -->
-<a href="https://www.facebook.com/wgyasiru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Facebook"/></a>
-&nbsp; &nbsp;
-<!-- Instagram -->
-<a href="https://www.instagram.com/yasiru.madhuwantha" target="_blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Instagram"/></a>
-&nbsp; &nbsp;
-<!-- Dribbble -->
-<a href="https://dribbble.com/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Dribbble.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Dribbble"/></a>
-&nbsp; &nbsp;
-<!-- Behance -->
-<a href="https://www.behance.net/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Behance.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Behance"/></a>
-&nbsp; &nbsp;
-<!-- Tumblr -->
-<a href="https://www.tumblr.com/wgyasiru" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Tumblr.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Tumblr"/></a>
-&nbsp; &nbsp;
-<!-- Twitter -->
-<a href="https://www.x.com/yasziru" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/d5e3dbcf8293fafbf18029412108fcbc409b43bc/YASIRU%20MADHUWANTHA/Social%20Media/Twitter.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Twitter"/></a>
-&nbsp; &nbsp;
-<!-- Deviantart -->
-<a href="https://www.deviantart.com/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/e508e03f1066ca0af0649e42fe36927392ed8f42/YASIRU%20MADHUWANTHA/Social%20Media/Deviantart.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Deviantart"/></a>
-</br>
-</br>
-<!-- Pinterest -->
-<a href="https://www.pinterest.com/yasiru_madhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/e508e03f1066ca0af0649e42fe36927392ed8f42/YASIRU%20MADHUWANTHA/Social%20Media/Pinterest.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Pinterest"/></a>
-&nbsp; &nbsp;
-<!-- Reddit -->
-<a href="https://www.reddit.com/user/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/e508e03f1066ca0af0649e42fe36927392ed8f42/YASIRU%20MADHUWANTHA/Social%20Media/Reddit.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Reddit"/></a>
-&nbsp; &nbsp;
-<!-- Quora -->
-<a href="https://www.quora.com/profile/YASIRU-MADHUWANTHA-3" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/4e02540fecee2ff098005db344b0d02374a3ec42/YASIRU%20MADHUWANTHA/Social%20Media/Quora.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Quora"/></a>
-&nbsp; &nbsp;
-<!-- Vimeo -->
-<a href="https://www.vimeo.com/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Vimeo.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Vimeo"/></a>
-&nbsp; &nbsp;
-<!-- Gitlab -->
-<a href="https://gitlab.com/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Gitlab.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Gitlab"/></a>
-&nbsp; &nbsp;
-<!-- Mastodon -->
-<a href="https://expressional.social/@yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Mastodon.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Mastodon"/></a>
-&nbsp; &nbsp;
-<!-- Patreon -->
-<a href="https://patreon.com/YASIRUMADHUWANTHA" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/297b93b60a85cc76574e95871de260b23e42171c/YASIRU%20MADHUWANTHA/Social%20Media/Patreon.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Patreon"/></a>
-&nbsp; &nbsp;
-<!-- Twitch -->
-<a href="https://www.twitch.tv/yasirumadhuwantha" target="_blank"><img align="center" src="https://github.com/yasirumadhuwantha/icons/blob/7fd709cb21cfd56b9faefb8fadd517fcf30154fa/YASIRU%20MADHUWANTHA/Social%20Media/Twitch%20x1.svg" alt="YASIRU MADHUWANTHA" height="50" width="50" title="Twitch"/></a>
-</p>
 
 ---
 
