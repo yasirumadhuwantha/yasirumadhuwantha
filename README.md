@@ -40,25 +40,13 @@
 
 ---
 
-<h3 align="center">My Statistics</h3>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yasirumadhuwantha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=yasirumadhuwantha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yasirumadhuwantha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-
-<table align="center">
-<tr border="none">
-
-<td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=yasirumadhuwantha&theme=dark&show_icons=true&count_private=true" />
-<br></br>
-<img  title="Streak Stats" alt="Mark Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirumadhuwantha&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yasirumadhuwantha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-
-</tr>
-</table>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yasirumadhuwantha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
