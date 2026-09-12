@@ -122,19 +122,21 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yasirumadhuwantha&theme=dark&show_icons=true" alt="GitHub Stats" />
+<a href="https://github.com/yasirumadhuwantha" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api?username=yasirumadhuwantha&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+</a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirumadhuwantha&theme=dark&layout=compact" alt="Top Languages" />
+<a href="https://github.com/yasirumadhuwantha" target="_blank">
+<img src="https://streak-stats.demolab.com?user=yasirumadhuwantha&theme=dark" alt="GitHub Streak" />
+</a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirumadhuwantha&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=yasirumadhuwantha&theme=dark" alt="Activity Graph" />
+<a href="https://github.com/yasirumadhuwantha" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirumadhuwantha&theme=dark&layout=compact&langs_count=8" alt="Top Languages" />
+</a>
 </p>
 
 ---
